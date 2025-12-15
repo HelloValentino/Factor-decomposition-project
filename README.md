@@ -125,14 +125,3 @@ Interpretation:
   - rolling alpha
 
 ---
-
-## How to run (Google Colab)
-1. Open the notebook in Colab
-2. Run cells top-to-bottom
-3. Upload `portfolio.csv`/`.xlsx` when prompted (must include **Ticker** and **Weight**)
-
-Required packages are installed in-notebook (e.g., `yfinance`).
-
----
-
-## Repo structure (recommended)
