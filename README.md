@@ -83,7 +83,7 @@ From `summary_statistics.csv`:
 - **Max drawdown:** **-23.37%**
 - **Alpha (annualized, from rolling model average):** **8.80%**
 
-Interpretation (plain English):
+Interpretation:
 - The portfolio delivered **strong absolute and risk-adjusted returns** over the sample.
 - Volatility is meaningful (this is not a defensive strategy), but Sharpe > 1 indicates returns have been **good relative to risk**.
 - Max drawdown around ~23% indicates the portfolio experiences **material equity-like drawdowns**.
